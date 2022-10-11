@@ -1,0 +1,7 @@
+div>h2{
+    font-family: "Italic", sans-serif;
+}
+
+h2+p{
+    color:red;
+}
