@@ -1,4 +1,4 @@
-div h2{
+/* div h2{
     font-family: "Italic", sans-serif;
 }
 
@@ -9,4 +9,19 @@ h2 + p{
 .list > li{
     list-style-type: none;
     border-bottom: solid 1px gray;
+} */
+
+
+a:link{
+    color:green;
+}
+a:visited{
+    color:red;
+}
+a:focus{
+    color:pink;
+}
+li::first-letter{
+    font-weight: bold;
+    font-size: 120%;
 }
