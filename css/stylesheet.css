@@ -1,7 +1,12 @@
-div>h2{
+div h2{
     font-family: "Italic", sans-serif;
 }
 
-h2+p{
+h2 + p{
     color:red;
+}
+
+.list > li{
+    list-style-type: none;
+    border-bottom: solid 1px gray;
 }
