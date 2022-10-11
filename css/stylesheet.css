@@ -12,7 +12,7 @@ h2 + p{
 } */
 
 
-a:link{
+/* a:link{
     color:green;
 }
 a:visited{
@@ -28,4 +28,12 @@ li:first-of-type::first-letter{
 
 [title="BCIT homepage"]{
     background-color: yellow;
+} */
+
+img{
+    float: left;
+}
+
+.below{
+    clear: left;
 }
